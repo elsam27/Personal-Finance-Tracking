@@ -10,3 +10,6 @@ This is a Python-based personal finance tracking program that allows its users t
 - Modify and/or delete transactions
 - Export data to CSV and text reports
 - Data persistence with JSON storage
+
+## Requirements
+- Python 3.6+
