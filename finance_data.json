@@ -1,0 +1,33 @@
+{
+  "income": [
+    {
+      "amount": 234.67,
+      "category": "Salary",
+      "date": "2026-07-30",
+      "description": "nothing",
+      "type": "income"
+    }
+  ],
+  "expenses": [],
+  "savings_goal": 0.0,
+  "budget": {
+    "monthly": {},
+    "weekly": {}
+  },
+  "categories": [
+    "Salary",
+    "Business",
+    "Investment",
+    "Gift",
+    "Housing",
+    "Food",
+    "Transportation",
+    "Utilities",
+    "Entertainment",
+    "Healthcare",
+    "Education",
+    "Shopping",
+    "Insurance",
+    "Other"
+  ]
+}
